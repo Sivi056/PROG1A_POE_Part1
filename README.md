@@ -25,8 +25,7 @@ This is a simple chat application that allows users to register and log in. The 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https:https://github.com/Sivi056/PROG1A_POE_Part1/new/master?filename=README.md
-
+   git clone https:https://github.com/Sivi056/PROG1A_POE_Part1.git
 2.Open IntelliJ IDEA.
 Select "Open" and navigate to the project directory.
 Add Dependencies:
